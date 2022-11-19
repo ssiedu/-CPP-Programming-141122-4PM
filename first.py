@@ -1,0 +1,6 @@
+print("hello")
+print("Welcome to ssi digital")
+print("This is a python class")
+print(10+20)
+print(2*3)
+print(12/2)
